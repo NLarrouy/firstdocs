@@ -9,7 +9,7 @@ Sommaire :
    :maxdepth: 2
 
    a_propos
-   nos_projets/
+   nos_projets/index
 
 Ressources en ligne supplémentaires :
 
