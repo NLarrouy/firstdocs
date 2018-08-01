@@ -13,5 +13,5 @@ Pourquoi ?
 Utilisation
 ------------
 
-- Besoin d'être contributeur GITHUB sur https://github.com/gfipt-so
-- Créer un compte github, envoyer votre ID et demander a être contributeur auprès de : julien.kolaric@gfi.fr
+- Besoin d'Ãªtre contributeur GITHUB sur https://github.com/gfipt-so
+- CrÃ©er un compte github, envoyer votre ID et demander a Ãªtre contributeur auprÃ¨s de : julien.kolaric@gfi.fr
