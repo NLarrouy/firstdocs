@@ -1,17 +1,16 @@
-PTDocs Project
-========
+Bienvenue dans la documentation P&T SudOuest!
+==========================================
 
-PTDocs Project est le projet P&T Sud ouest de centralisation des documentations
+Ce projet documentaire est porté par P&T Sud Ouest et permet de centraliser toutes les documentations techniques
 
-Pourquoi ?
---------
+Sommaire :
 
-- Centralisation des documentations
-- Partage des connaissances
-- Re-use facile
+.. toctree::
+   :maxdepth: 2
 
-Utilisation
-------------
+   a_propos
+   nos_projets/index
 
-- Besoin d'être contributeur GITHUB sur https://github.com/gfipt-so
-- Créer un compte github, envoyer votre ID et demander a être contributeur auprès de : julien.kolaric@gfi.fr
+Ressources en ligne supplémentaires :
+
+* `Demo <http://gfi.world>`_
