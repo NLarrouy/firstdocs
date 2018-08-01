@@ -1,41 +1,17 @@
-$project
+PTDocs Project
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+PTDocs Project est le projet P&T Sud ouest de centralisation des documentations
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
+Pourquoi ?
 --------
 
-- Be awesome
-- Make things faster
+- Centralisation des documentations
+- Partage des connaissances
+- Re-use facile
 
-Installation
+Utilisation
 ------------
 
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+- Besoin d'être contributeur GITHUB sur https://github.com/gfipt-so
+- Créer un compte github, envoyer votre ID et demander a être contributeur auprès de : julien.kolaric@gfi.fr
